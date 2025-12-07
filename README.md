@@ -6,12 +6,12 @@ Webサイト制作等にご活用頂ければ幸いです。
 
 ### CSS 形式を用いる場合
 ```css
-@import "_wa_no_iro.css";
+@import "_wa-no-iro.css";
 ```
 
 ### SCSS 形式を用いる場合
 ```
-@import "wa_no_iro";
+@import "wa-no-iro";
 ```
 
 変数名 値(16進表記) 色名(読み)の順です。
